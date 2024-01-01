@@ -60,8 +60,7 @@ sick leave, and personal time off within an organization.
 
 ## System UseCase 
 
-![Vaction Tracking System Use Case](https://github.com/tantawy2025/Vacation-Tracking-System/assets/35627054/244d0117-62a8-4c3e-a0a4-33a47045e6ed)
-
+![Vaction Tracking System Use Case](https://github.com/tantawy2025/Vacation-Tracking-System/assets/35627054/56b5c76e-32fb-40b9-bb29-7768e22d6ff1)
 
 
 
