@@ -65,11 +65,3 @@ sick leave, and personal time off within an organization.
 
 
 
-
-
-## System Use Case
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
