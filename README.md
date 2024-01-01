@@ -58,7 +58,9 @@ sick leave, and personal time off within an organization.
 * System Admin
 
 
+## System UseCase 
 
+![Vaction Tracking System Use Case](https://github.com/tantawy2025/Vacation-Tracking-System/assets/35627054/244d0117-62a8-4c3e-a0a4-33a47045e6ed)
 
 
 
