@@ -83,6 +83,12 @@ sick leave, and personal time off within an organization.
 
 ![Flowchart (1)](https://github.com/tantawy2025/Vacation-Tracking-System/assets/35627054/b6a2cdc4-d114-4800-b629-6f4c0c58249f)
 
+<br /><br />
+## Create New Request Sequence Diagarm
+<br />
+
+![Create new Request Manage time sequence diagram (1)](https://github.com/tantawy2025/Vacation-Tracking-System/assets/35627054/ae2cb096-3368-43dc-93a0-f745bcd4233b)
+
 
 
 
