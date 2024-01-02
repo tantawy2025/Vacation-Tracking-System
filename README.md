@@ -81,7 +81,8 @@ sick leave, and personal time off within an organization.
 ## Flow Chart
 <br />
 
-![Flowchart](https://github.com/tantawy2025/Vacation-Tracking-System/assets/35627054/2b33d933-a09c-4c7b-a35e-110664c7bbde)
+![Flowchart (1)](https://github.com/tantawy2025/Vacation-Tracking-System/assets/35627054/b6a2cdc4-d114-4800-b629-6f4c0c58249f)
+
 
 
 
