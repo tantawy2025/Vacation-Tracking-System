@@ -57,10 +57,32 @@ sick leave, and personal time off within an organization.
 * HR Clerk
 * System Admin
 
+## All Use Cases
 
+* Manage Time 
+
+* Award Time
+
+* Edit Employee Record
+
+* Manage Locations
+
+* Manage Leave categories
+
+* Override Leave records
+<br /><br /><br />
 ## System UseCase 
+<br />
 
 ![Vaction Tracking System Use Case](https://github.com/tantawy2025/Vacation-Tracking-System/assets/35627054/56b5c76e-32fb-40b9-bb29-7768e22d6ff1)
+<br /><br /><br />
+## 1- Manage Time Use Case
+<br /><br />
+## Flow Chart
+<br />
+
+![Flowchart](https://github.com/tantawy2025/Vacation-Tracking-System/assets/35627054/2b33d933-a09c-4c7b-a35e-110664c7bbde)
+
 
 
 
