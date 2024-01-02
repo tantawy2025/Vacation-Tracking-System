@@ -87,9 +87,18 @@ sick leave, and personal time off within an organization.
 ## Create New Request Sequence Diagarm
 <br />
 
-![Create new Request Manage time sequence diagram (1)](https://github.com/tantawy2025/Vacation-Tracking-System/assets/35627054/ae2cb096-3368-43dc-93a0-f745bcd4233b)
+![Create new Request Manage time sequence diagram (3)](https://github.com/tantawy2025/Vacation-Tracking-System/assets/35627054/f26d3b95-7c72-44d0-84a5-62edb21a6750)
 
+<br /><br /><br />
+## 1- Cancel Request Use Case
+<br /><br />
+## Flow Chart
+<br />
 
+<br /><br />
+## Cancel Request Sequence Diagarm
+<br />
 
+![Cancel Request sequence diagram](https://github.com/tantawy2025/Vacation-Tracking-System/assets/35627054/9c4d6c3c-978c-4e07-a1ac-e2a09d53ee4d)
 
 
